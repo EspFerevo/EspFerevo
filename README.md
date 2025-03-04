@@ -33,7 +33,6 @@ I enjoy building modern and responsive web applications, exploring new technolog
     <td align="center" width="88"><img src="./images/04-typescript.svg" width="44"/><br>TypeScript</td>
     <td align="center" width="88"><img src="./images/06-react.svg" width="44"/><br>React.js</td>
     <td align="center" width="88"><img src="./images/08-nodejs.svg" width="44"/><br>Node.js</td>
-    <td align="center" width="88"><img src="./images/09-sql.svg" width="44"/><br>SQL</td>
   </tr>
   <tr>
     <td align="center" width="88"><img src="./images/10-sass.svg" width="44"/><br>Sass</td>

@@ -25,7 +25,7 @@ I love building **responsive, user-friendly web applications**, exploring new te
   <table style="border: none; background: #2a2a2a; border-radius: 10px; padding: 15px;">
     <tr>
       <th style="padding: 10px; color: #ffffff;">Language</th>
-      <th style="padding10px; color: #ffffff;">Level</th>
+      <th style="padding: 10px; color: #ffffff;">Level</th>
     </tr>
     <tr>
       <td style="padding: 10px;">🇺🇦 Ukrainian</td>
@@ -79,7 +79,7 @@ I love building **responsive, user-friendly web applications**, exploring new te
         <img src="./images/11-bem.svg" width="48" alt="BEM"/>
         <br><span style="color: #ffffff;">BEM</span>
       </td>
-      <td align="center" width="100">
+      <td <td align="center" width="100">
         <img src="./images/14-postman.svg" width="48" alt="Postman"/>
         <br><span style="color: #ffffff;">Postman</span>
       </td>
@@ -107,23 +107,10 @@ I love building **responsive, user-friendly web applications**, exploring new te
 
 ---
 
-## 💻 Featured Projects
+## 🚀 Who Am I?
 
 <div align="center">
-  <table style="border: none; background: #2a2a2a; border-radius: 10px; padding: 15px;">
-    <tr>
-      <td align="center" width="50%">
-        <h3><a href="https://github.com/EspFerevo/YOUR_PROJECT">Project Name</a></h3>
-        <p>A web app with user authentication and real-time updates.</p>
-        <img src="https://img.shields.io/badge/Tech-React%20|%20Node.js-blue?style=flat-square" alt="Tech Stack"/>
-      </td>
-      <td align="center" width="50%">
-        <h3><a href="https://github.com/EspFerevo/YOUR_PROJECT2">Project Name 2</a></h3>
-        <p>A portfolio site built with Sass and BEM.</p>
-        <img src="https://img.shields.io/badge/Tech-Sass%20|%20HTML5-orange?style=flat-square" alt="Tech Stack"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;Node.js+Explorer;Coffee+Lover!" alt="Typing SVG"/>
 </div>
 
 ---
@@ -131,7 +118,7 @@ I love building **responsive, user-friendly web applications**, exploring new te
 ## 💡 Inspiration
 
 <div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dracula" alt="Random Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&rand={{timestamp}}" alt="Random Quote"/>
 </div>
 
 ---

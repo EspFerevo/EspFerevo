@@ -123,13 +123,6 @@ I love building **responsive, user-friendly web applications**, exploring new te
 
 ---
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=EspFerevo&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" style="margin: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EspFerevo&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" style="margin: 10px;"/>
-</div>
-
----
-
 <div align="center" style="margin-top: 20px;">
   <p style="color: #ffffff;">Made with ❤️ and ☕ by Oleksandr</p>
 </div>

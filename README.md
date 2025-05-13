@@ -107,6 +107,14 @@ I love building **responsive, user-friendly web applications**, exploring new te
 
 ---
 
+## 🚀 Who Am I?
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;Node.js+Explorer;Coffee+Lover!" alt="Typing SVG"/>
+</div>
+
+---
+
 ## 💡 Inspiration
 
 <div align="center">
@@ -118,13 +126,13 @@ I love building **responsive, user-friendly web applications**, exploring new te
 ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+  <a href="https://ua.linkedin.com/in/olekchekrenov" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/EspFerevo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="olekchekrenov@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>

@@ -124,8 +124,8 @@ I'm a dedicated developer who loves building **responsive, user-friendly web app
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EspFerevoe&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EspFerevoe&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---

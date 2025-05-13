@@ -12,11 +12,6 @@
 ---
 
 ## 🌟 About Me
-## 🚀 Who Am I?
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;Node.js+Explorer;Always+Learning!" alt="Typing SVG"/>
-</div>
 
 💻 **Passionate Software Developer** | 🎨 **Web Design Enthusiast**  
 

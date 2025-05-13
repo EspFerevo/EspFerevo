@@ -113,7 +113,7 @@ I love building **responsive, user-friendly web applications**, exploring new te
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/EspFerevo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:YOUR_EMAIL@example.com">
@@ -124,8 +124,8 @@ I love building **responsive, user-friendly web applications**, exploring new te
 ---
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" style="margin: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" style="margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EspFerevo&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" style="margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EspFerevo&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" style="margin: 10px;"/>
 </div>
 
 ---

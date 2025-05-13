@@ -15,7 +15,7 @@
 
 💻 **Passionate Software Developer** | 🎨 **Web Design Enthusiast**  
 
-I'm a dedicated developer who loves building **responsive, user-friendly web applications**. I thrive on exploring new technologies, solving challenges, and continuously leveling up my skills. My goal is to create seamless digital experiences that make an impact.
+I love building **responsive, user-friendly web applications**, exploring new technologies, and constantly leveling up my skills. My goal is to create digital experiences that inspire and make an impact.
 
 ---
 
@@ -47,7 +47,7 @@ I'm a dedicated developer who loves building **responsive, user-friendly web app
 ## 🛠 My Stack and Tools
 
 <div align="center">
-  <table style="border: none;">
+  <table style="border: none; background: #2a2a2a; border-radius: 10px; padding: 15px;">
     <tr>
       <td align="center" width="100">
         <img src="./images/01-html5.svg" width="48" alt="HTML5"/>
@@ -65,12 +65,12 @@ I'm a dedicated developer who loves building **responsive, user-friendly web app
         <img src="./images/06-react.svg" width="48" alt="React.js"/>
         <br><span style="color: #ffffff;">React.js</span>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="100">
         <img src="./images/08-nodejs.svg" width="48" alt="Node.js"/>
         <br><span style="color: #ffffff;">Node.js</span>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="100">
         <img src="./images/10-sass.svg" width="48" alt="Sass"/>
         <br><span style="color: #ffffff;">Sass</span>
@@ -83,12 +83,12 @@ I'm a dedicated developer who loves building **responsive, user-friendly web app
         <img src="./images/14-postman.svg" width="48" alt="Postman"/>
         <br><span style="color: #ffffff;">Postman</span>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="100">
         <img src="./images/15-mongodb.svg" width="48" alt="MongoDB"/>
         <br><span style="color: #ffffff;">MongoDB</span>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="100">
         <img src="./images/16-git.svg" width="48" alt="Git"/>
         <br><span style="color: #ffffff;">Git</span>
@@ -110,22 +110,22 @@ I'm a dedicated developer who loves building **responsive, user-friendly web app
 ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:YOUR_EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EspFerevoe&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EspFerevoe&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" style="margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" style="margin: 10px;"/>
 </div>
 
 ---

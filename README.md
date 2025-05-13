@@ -17,14 +17,6 @@
 
 I love building **responsive, user-friendly web applications**, exploring new technologies, and constantly leveling up my skills. My goal is to create digital experiences that inspire and make an impact.
 
-## 💡 Inspiration
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Quote"/>
-</div>
-
 ---
 
 ## 🌍 Languages
@@ -33,7 +25,7 @@ I love building **responsive, user-friendly web applications**, exploring new te
   <table style="border: none; background: #2a2a2a; border-radius: 10px; padding: 15px;">
     <tr>
       <th style="padding: 10px; color: #ffffff;">Language</th>
-      <th style="padding: 10px; color: #ffffff;">Level</th>
+      <th style="padding10px; color: #ffffff;">Level</th>
     </tr>
     <tr>
       <td style="padding: 10px;">🇺🇦 Ukrainian</td>
@@ -111,6 +103,35 @@ I love building **responsive, user-friendly web applications**, exploring new te
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+## 💻 Featured Projects
+
+<div align="center">
+  <table style="border: none; background: #2a2a2a; border-radius: 10px; padding: 15px;">
+    <tr>
+      <td align="center" width="50%">
+        <h3><a href="https://github.com/EspFerevo/YOUR_PROJECT">Project Name</a></h3>
+        <p>A web app with user authentication and real-time updates.</p>
+        <img src="https://img.shields.io/badge/Tech-React%20|%20Node.js-blue?style=flat-square" alt="Tech Stack"/>
+      </td>
+      <td align="center" width="50%">
+        <h3><a href="https://github.com/EspFerevo/YOUR_PROJECT2">Project Name 2</a></h3>
+        <p>A portfolio site built with Sass and BEM.</p>
+        <img src="https://img.shields.io/badge/Tech-Sass%20|%20HTML5-orange?style=flat-square" alt="Tech Stack"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 💡 Inspiration
+
+<div align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dracula" alt="Random Quote"/>
 </div>
 
 ---

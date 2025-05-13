@@ -17,6 +17,14 @@
 
 I love building **responsive, user-friendly web applications**, exploring new technologies, and constantly leveling up my skills. My goal is to create digital experiences that inspire and make an impact.
 
+## 💡 Inspiration
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Quote"/>
+</div>
+
 ---
 
 ## 🌍 Languages

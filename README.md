@@ -9,16 +9,6 @@
   </p>
 </div>
 
----
-
-## 🌟 About Me
-
-💻 **Passionate Software Developer** | 🎨 **Web Design Enthusiast**  
-
-I love building **responsive, user-friendly web applications**, exploring new technologies, and constantly leveling up my skills. My goal is to create digital experiences that inspire and make an impact.
-
----
-
 ## 🌍 Languages
 
 <div align="center">
